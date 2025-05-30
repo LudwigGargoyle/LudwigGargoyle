@@ -1,6 +1,6 @@
 - 👋
 I’ve been working in enterprise software development for years, with extensive experience in legacy systems and their evolution through the integration of modern technologies.
-Over time, I’ve expanded my focus from back-end development to include front-end refactoring, UI/UX redesign, and modular middleware architecture, integrating tools like AI and SAML into environments that were never designed to support them.
+Over time, I’ve expanded my focus from back-end development to include front-end refactoring, UI redesign, and modular middleware architecture, integrating tools like AI and SAML into environments that were never designed to support them.
 
 - 🧩 In this space, I share technical materials I’ve developed in my spare time — often sparked by real-world needs encountered at work:
 
